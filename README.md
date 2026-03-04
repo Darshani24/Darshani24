@@ -5,7 +5,7 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 3rd Year Software Engineering Undergraduate  
+- 🎓 Final Year Software Engineering Undergraduate  
 - 💼 Former Software Engineering Intern at DI11 Soft (Pvt)Ltd. (Jun 2025 – Dec 2025)  
 - 🚀 Interested in Full Stack Web Development & System Design  
 - 🌱 Currently learning **React Native**
