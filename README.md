@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-React | Next.js | JavaScript | HTML | CSS | TailwindCSS
+React | Next.js | JavaScript | HTML | CSS | TailwindCSS | TypeScript
 
 ### Backend
 Node.js | Express.js
